@@ -35,6 +35,11 @@ nav {
   font-weight: 500;
 }
 
+.tipToUser {
+  font-size: 1.5rem;
+  margin-left: 20px;
+}
+
 .logo {
   height: 5.25rem;
 }
